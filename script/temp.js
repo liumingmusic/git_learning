@@ -1,3 +1,3 @@
 function add(){
-    return 100;
+    return 10;
 }
